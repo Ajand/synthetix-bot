@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@synthetixio/contracts-interface": "^2.45.2",
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "puppeteer": "^9.1.1"
+  }
 }
